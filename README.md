@@ -1,1 +1,3 @@
-Expense Tracker App Created with React, COntext API, Node, Express, Mongo DB
+# MERN Expense Tracker App 
+
+Created with React, Context API, Node, Express, Mongo DB
